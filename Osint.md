@@ -1,41 +1,54 @@
-# Google Lens / recherche inversée
-Maintenant intégré à Google, il vous suffit de cliquer sur l'icône ressemblant à celle ci-dessous pour y coller vos images ou les importer 
-si vous les avez déjà téléchargées.
+# 🌐 OSINT - Outils pour la recherche d'informations en ligne
 
-Voici le lien : [Recheche Lens](https://images.google.com/ "Recherche Google Lens")
+Explorez des outils pratiques pour vos analyses OSINT, qu’il s’agisse de localiser des lieux, d’explorer des archives web ou de réaliser des recherches inversées.  
 
-# 
-# Google maps
-Un outil simple et fondamental, mais très pratique lorsque vous recherchez un endroit où une photo pourrait avoir été prise.
+---
 
-**IMPORTANT :**
-Sur Maps, vous avez la possibilité de modifier l'année de la prise de vue.
+## 🔍 Google Lens / Recherche inversée
+Un outil intégré à Google qui permet de faire des recherches inversées d’images. Importez une image ou collez-en une pour obtenir des résultats pertinents.
 
-[Google maps](https://www.google.fr/maps)
+👉 [Accéder à Google Lens](https://images.google.com/ "Recherche Google Lens")
 
-#
-# F4 Map
-Dans le même esprit que Google maps, F4 map est une carte du monde en 3D, très utile pour retrouver un bâtiment précis
+---
 
-[F4 Map](https://demo.f4map.com/#camera.theta=0.9)
+## 🗺️ Google Maps
+Un classique incontournable pour localiser des lieux à partir d'une photo.  
+💡 **Astuce :** Sur Google Maps, vous pouvez modifier l'année des prises de vue pour explorer l'évolution d'un lieu.
 
-#
-# WayBackMachine
-WayBackMachine nous permet d’avoir un site web à des dates antérieurs.
+👉 [Explorer Google Maps](https://www.google.fr/maps)
 
-Certains challenge nous demande des informations que l’on peut trouver sur un site web mais cela des années passées, c’est là que WayBackMachine
-entre en jeu et nous est très utile.
+---
 
-[WayBackMachine](https://web.archive.org/)
+## 🏙️ F4 Map
+Une carte 3D interactive qui vous aide à identifier des bâtiments ou des lieux avec précision.  
+Particulièrement utile pour des recherches approfondies.
 
-#
-# Suncalc
-Une carte interactive qui permet de montrer la position du soleil à un endroit et un moment donné
+👉 [Découvrir F4 Map](https://demo.f4map.com/#camera.theta=0.9)
 
-[Suncalc](https://www.suncalc.org/)
+---
 
-#
-# What3Words
-What3Words est une map interactive sur laquelle le monde est divisé en plein de petits carrés et chacun des carrés est représenté par 3 mots 
+## 📜 WayBackMachine
+Consultez des versions archivées de sites web à différentes périodes.  
+🔑 **Idéal pour :** Retrouver des informations effacées ou non accessibles dans les challenges.
 
-[What3Words](https://what3words.com/)
+👉 [Utiliser WayBackMachine](https://web.archive.org/)
+
+---
+
+## ☀️ SunCalc
+Une carte interactive pour déterminer la position exacte du soleil à un lieu et à une heure précisés.  
+💡 **Utile pour :** Valider des informations basées sur des ombres ou la lumière.
+
+👉 [Accéder à SunCalc](https://www.suncalc.org/)
+
+---
+
+## 📍 What3Words
+Une carte innovante qui divise le monde en carrés de 3 mètres x 3 mètres, chaque carré étant identifié par une combinaison unique de 3 mots.  
+🔑 **Application :** Trouver des lieux précis ou partager des localisations.
+
+👉 [Découvrir What3Words](https://what3words.com/)
+
+---
+
+✨ Ces outils sont indispensables pour vos enquêtes OSINT et seront régulièrement enrichis avec de nouvelles suggestions !
