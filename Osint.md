@@ -1,6 +1,6 @@
 # 🌐 OSINT - Outils pour la recherche d'informations en ligne
 
-Explorez des outils pratiques pour vos analyses OSINT, qu’il s’agisse de localiser des lieux, d’explorer des archives web ou de réaliser des recherches inversées.  
+Explorez des outils pratiques pour vos analyses OSINT, qu’il s’agisse de localiser des lieux, d’explorer des archives web, ou de cartographier des données.  
 
 ---
 
@@ -48,6 +48,46 @@ Une carte innovante qui divise le monde en carrés de 3 mètres x 3 mètres, cha
 🔑 **Application :** Trouver des lieux précis ou partager des localisations.
 
 👉 [Découvrir What3Words](https://what3words.com/)
+
+---
+
+## ✈️ PlaneFinder
+Un outil qui permet de suivre les vols en temps réel et de recueillir des informations sur les avions, itinéraires, et compagnies.  
+🔑 **Application :** Identifier le trajet d'un avion vu sur une photo ou dans un contexte.
+
+👉 [Accéder à PlaneFinder](https://planefinder.net/)
+
+---
+
+## 🗺️ Overpass Turbo
+Un puissant outil pour interroger la base de données OpenStreetMap. Idéal pour trouver des objets spécifiques (bâtiments, routes, infrastructures) en fonction de critères précis.  
+💡 **Astuce :** Créez et personnalisez vos propres requêtes pour une analyse plus fine.
+
+👉 [Découvrir Overpass Turbo](https://overpass-turbo.eu/)
+
+---
+
+## 🛰️ Global Fishing Watch
+Un outil qui permet de suivre les activités de pêche dans le monde entier, avec des données satellitaires pour détecter des navires en mer.  
+🔑 **Application :** Vérifier la présence de bateaux ou d'activités humaines dans des zones spécifiques.
+
+👉 [Utiliser Global Fishing Watch](https://globalfishingwatch.org/map/)
+
+---
+
+## 🕵️‍♂️ Wigle
+Un service de cartographie des réseaux Wi-Fi dans le monde entier. Il permet de rechercher des informations sur des points d'accès et leurs localisations.  
+🔑 **Utile pour :** Identifier ou localiser des réseaux dans des enquêtes OSINT.
+
+👉 [Explorer Wigle](https://wigle.net/)
+
+---
+
+## 🔬 EPIOS
+Un outil d'agrégation de données qui facilite les recherches OSINT en combinant plusieurs sources pour analyser des informations.  
+💡 **Astuce :** EPIOS peut automatiser certaines étapes d'investigation.
+
+👉 [Accéder à EPIOS](https://epios.cloud/)
 
 ---
 
