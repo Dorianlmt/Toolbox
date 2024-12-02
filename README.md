@@ -20,6 +20,7 @@ Cette toolbox est en **amélioration continue**. De nouveaux outils et fonctionn
 
 ## 💡 Contribuer
 Les contributions et retours sont les bienvenus ! Si vous avez des suggestions ou remarques, n'hésitez pas à me contacter ou ouvrir une issue.
+Vous pouvez m'envoyer des messages sur discord si besoin : doggy2408
 
 ## 🛠️ À venir
 Support pour d'autres domaines comme la forensique et les web exploits.
