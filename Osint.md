@@ -92,3 +92,6 @@ Un outil d'agrégation de données qui facilite les recherches OSINT en combinan
 ---
 
 ✨ Ces outils sont indispensables pour vos enquêtes OSINT et seront régulièrement enrichis avec de nouvelles suggestions !
+*Réalisé par Dorian*
+
+
