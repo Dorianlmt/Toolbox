@@ -3,6 +3,7 @@ Maintenant intégré à Google, il vous suffit de cliquer sur l'icône ressembla
 si vous les avez déjà téléchargées.
 
 Voici le lien : [Recheche Lens](https://images.google.com/ "Recherche Google Lens")
+![Google_Lens_Icon svg](https://github.com/user-attachments/assets/65892193-e0b7-4cdc-b582-af52ae72ee4a)
 
 # 
 # Google maps
